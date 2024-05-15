@@ -3,7 +3,8 @@
 # Date: 15 May 2024
 # Purpose: Practice getting input from the user
 
-# Get first number from user 
+# Get first number from user
+num1 = input('Please enter a number: ') 
 
 # Get second number from user
 
