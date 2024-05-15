@@ -7,6 +7,7 @@
 num1 = input('Please enter a number: ') 
 
 # Get second number from user
+num2 = input('Please enter another number: ')
 
 # Add numbers together 
 
