@@ -13,5 +13,7 @@ num1 = input('Please enter a number: ')
 num2 = input('Please enter another number: ')
 
 # Add numbers together 
+sum = num1 + num2
 
 # Display result
+print("The sum of your numbers is", sum)
