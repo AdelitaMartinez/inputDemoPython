@@ -11,6 +11,7 @@ name = input('Please enter your name: ')
 
 # Convert to number
 # Float converts values into floating point numbers
+# Can also use int instread of float to find integer, will also run successfully
 # num1 = float(num_str1)
 
 # Both these steps can be put together in one line like below:
