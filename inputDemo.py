@@ -7,10 +7,14 @@
 name = input('Please enter your name: ')
 
 # Get first number from user
-num1 = input('Please enter a number: ') 
+num_str1 = input('Please enter a number: ') 
+
+# Convert to number
+num1 = float(num_str1)
 
 # Get second number from user
-num2 = input('Please enter another number: ')
+num_str2 = input('Please enter another number: ')
+num2 = float(num_str2)
 
 # Add numbers together 
 sum = num1 + num2
