@@ -10,6 +10,7 @@ name = input('Please enter your name: ')
 num_str1 = input('Please enter a number: ') 
 
 # Convert to number
+# Float converts values into floating point numbers
 num1 = float(num_str1)
 
 # Get second number from user
